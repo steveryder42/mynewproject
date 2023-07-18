@@ -1,5 +1,5 @@
 # mynewproject
 
-##edit the file
+## edit the file
 
 its a markdown file in a repository.
